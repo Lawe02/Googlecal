@@ -1,0 +1,23 @@
+{
+  "name": "goglcal",
+  "version": "1.0.0",
+  "description": "\"# Googlecal\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lawe02/Googlecal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lawe02/Googlecal/issues"
+  },
+  "homepage": "https://github.com/Lawe02/Googlecal#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "googleapis": "^88.2.0"
+  }
+}
